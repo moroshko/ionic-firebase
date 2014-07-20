@@ -1,0 +1,19 @@
+{
+  "name": "MyApp",
+  "version": "0.0.1",
+  "description": "MyApp description goes here",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "gulp": "^3.5.6",
+    "gulp-sass": "^0.7.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-jshint": "^1.6.3"
+  },
+  "devDependencies": {
+    "karma": "^0.12.16",
+    "karma-jasmine": "^0.2.0",
+    "karma-chrome-launcher": "^0.1.4"
+  }
+}
